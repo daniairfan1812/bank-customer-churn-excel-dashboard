@@ -50,8 +50,16 @@ Dataset contains **10,000 customers** with features including:
 ---
 
 ##  Dashboard Preview
-![Dashboard](dashboard.png)
-![Dashboard](dashboard2.png)
+# 📊 Bank Customer Churn Analysis Dashboard
+
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
+# 📊 Bank Customer Churn Analysis Dashboard
+
+<p align="center">
+  <img src="dashboard2.png" width="500">
+</p>
 
 
 ##  Key Findings
