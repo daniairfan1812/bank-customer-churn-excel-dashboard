@@ -50,8 +50,8 @@ Dataset contains **10,000 customers** with features including:
 ---
 
 ##  Dashboard Preview
-
-
+![Dashboard](dashboard.png)
+![Dashboard](dashboard2.png)
 
 
 ##  Key Findings
